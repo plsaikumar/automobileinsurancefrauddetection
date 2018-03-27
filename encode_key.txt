@@ -1,0 +1,154 @@
+unknown -1
+
+vehicle_type
+
+'UNKNOWN VEHICLE' -1
+pick up truck 0
+'TRACTOR' 1
+flat bed truck 2
+motorcycle 3
+'BUS (OMNIBUS)' 4
+'HOUSE ON WHEELS' 5
+'CONVERTIBLE' 6
+'MOPED' 7
+'2 DOOR SEDAN' 8
+'4 DOOR SEDAN' 9
+'SUBURBAN' 10
+'VAN TRUCK' 11
+'DELIVERY TRUCK' 12
+'DUMP' 13
+all purpose vehicle 14
+'UTILITY' 15
+'AMBULANCE' 16
+'CUSTOM' 17
+unknown truck 18
+'STAKE TRUCK' 19
+'TOW TRUCK' 20
+'POWER SHOVEL' 21
+'LIMOUSINE (OMNIBUS)' 22
+'DISABLED COMMERCIAL' 23
+'MOBILE CAR CRUSHER' 24
+'TRUCK W/ SMALL WHEELS' 25
+
+
+
+registration
+
+'COMMERCIAL' 0
+'SEMI-TRAILER' 1
+'CLASS B LIMITED USE MOTORCYCLE' 2
+motorcycle 3
+'POLITICAL SUBDIVISION' 4
+  5
+  6
+'SPORTS' 7
+'AGRICULTURAL TRUCK' 8
+'AGRICULTURAL COMMERCIAL' 9
+'ORGANIZATIONAL' 10
+'IN TRANSIT PERMIT' 11
+'CLASS A LIMITED USE MOTORCYCLE' 12
+'OMNIBUS - LIVERY' 13
+'SPECIAL PASSENGER' 14
+'TANK TRUCK' 15
+'LIGHT TRAILER' 16
+'HOUSE OR COACH TRAILER' 17
+'TRAILER - REGULAR' 18
+'ORGANIZATIONAL COMMERCIAL' 19
+'TOW TRUCK' 20
+'CLASS C LIMITED USE MOTORCYCLE' 21
+'MEDICAL DOCTOR' 22
+'SPECIAL PURPOSE COMMERCIAL' 23
+
+action
+
+'Going Straight Ahead' 0
+'Making Right Turn' 1
+'Stopped in Traffic' 2
+'Making Left Turn' 3
+'Slowing or Stopping' 4
+'Backing' 5
+'Parked' 6
+'Changing Lanes' 7
+'Overtaking/Passing' 8
+'Starting in Traffic' 10
+'Merging' 11
+'Not Applicable' 12
+'Other' 13
+'Making U Turn' 14
+'Making Left Turn on Red' 15
+'Entering Parked Position' 16
+
+type
+
+'Not Entered' 0
+
+
+direction
+'North' 0
+'South' 1
+'East' 2
+'West' 3
+'Southeast' 4
+'Northeast' 5
+'Southwest' 6
+'Northwest' 7
+
+
+
+fuel
+
+'None' 0
+'Gas' 1
+'Diesel' 2
+'Electric' 3
+
+state
+'NY' 0
+
+
+vehicle make
+
+'AM/HA' 0
+ford 1
+'HONDA' 2
+'KAWAS' 3
+'YAMAH' 4
+'LAMBO' 5
+'KYMCO' 6
+'DODGE' 7
+'VESPA' 8
+'suzuk' 9
+
+
+
+
+'HUMAN' 0
+'Unsafe Speed' 1
+'Following Too Closely' 2
+'VEHICLE' 3
+'Driver Inattention/Distraction*' 4
+'Failure to Yield Right-of-Way' 5
+'Tree, Collision With Fixed Object' 6
+'Other Motor Vehicle, Collision With' 7
+'Other*' 8
+'ENVMT' 9
+'Backing Unsafely' 10
+'Animal's Action' 11
+'View Obstructed/Limited' 12
+'Traffic Control Device Disregarded' 13
+'Curbing, Collision With Fixed Object' 15
+'Unsafe Lane Changing' 16
+'Reaction to Other Uninvolved Vehicle' 17
+'Glare' 18
+'Alcohol Involvement' 19
+'Turning Improperly' 20
+'Lane Marking Improper/Inadequate' 21
+'Prescription Medication' 22
+
+
+
+
+
+
+
+
